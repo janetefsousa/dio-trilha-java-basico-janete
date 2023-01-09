@@ -3,7 +3,7 @@ public class TiposVariaveis {
      //Tipos primitivos
      //estudem a classe String que representa teste na apliacação
      
-      String meuNome = "Janete Ferreira"
+      String meuNome = "Janete Ferreira";
       
       double salarioMinimo = 2500;
 
