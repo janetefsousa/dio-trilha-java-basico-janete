@@ -17,7 +17,7 @@ public class Usuario {
       System.out.println("Qual volume ?" +smartTv.volume);
 
        smartTv.ligar();
-       System.out.println("Novo Status -> Tv Ligada ?" + smartTv.ligada);
+       System.out.println("Novo Status -> Tv Ligada ? " + smartTv.ligada);
        
        smartTv.desligar();
        System.out.println("Novo Stuatus -> Tv Ligada ? " + smartTv.ligada);
